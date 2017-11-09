@@ -5,7 +5,7 @@
 // =============================================================================
 var express          = require("express");
 var mongoose         = require("mongoose");
-var expresHandlebars = require("express-handlebars");
+var expressHandlebars = require("express-handlebars");
 var bodyParser       = require("body-parser");
 
 // Setup Port
